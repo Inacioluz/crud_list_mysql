@@ -71,7 +71,7 @@ Inicie o frontend
 - express
 - cors
 - nodemon
-- axios
+
 
 
 
